@@ -2,16 +2,16 @@
 
 # Braulio Echeverría
 
-**Full Stack Developer · Docente · Builder** 🇬🇹
+**Full Stack Developer · Builder · Docente** 🇬🇹
 
-Construyo sistemas que conectan **tecnología con personas**  
-Enfocado en plataformas educativas, APIs escalables y soluciones con IA
+Construyo software que conecta **tecnología, educación y personas**
 
 <br/>
 
 [🌐 Portafolio](https://www.jbrau.dev/) • 
 [💼 LinkedIn](https://www.linkedin.com/in/josebraulioe/) • 
-[💻 GitHub](https://github.com/Jbraulio85) • 
+[💻 GitHub](https://github.com/Jbraulio85)
+
 📫 braulioecheverria@kinal.org.gt
 
 </div>
@@ -20,58 +20,57 @@ Enfocado en plataformas educativas, APIs escalables y soluciones con IA
 
 ## 🚀 Sobre mí
 
-Soy desarrollador Full Stack y docente en **Fundación Kinal**, enfocado en crear software que **resuelve problemas reales**, especialmente en educación.
+Soy desarrollador Full Stack y docente en **Fundación Kinal**, enfocado en crear soluciones reales, especialmente en educación.
 
-Actualmente construyendo:
-- 🧠 Plataformas educativas con integración de IA (LLM, STT, TTS)
-- ⚡ APIs robustas y escalables
-- 🌐 Experiencias web modernas
-- 📱 Aplicaciones móviles multiplataforma
+Trabajo en todo el stack: desde backend e infraestructura hasta interfaces modernas y experiencia de usuario.
 
-Me interesa entender el sistema completo: desde la infraestructura hasta la experiencia del usuario.
-
----
-
-## 🧠 Lo que hago
-
-✔ Diseño y desarrollo de plataformas educativas  
-✔ Integración de inteligencia artificial en productos reales  
-✔ Construcción de APIs escalables (Java, Spring Boot, Node.js)  
-✔ Desarrollo frontend moderno (React, Angular)  
-✔ Deploys con Docker en entornos cloud y self-hosted  
+Actualmente explorando:
+- 🧠 IA aplicada a educación (LLM, STT, TTS)
+- ⚡ Sistemas escalables y APIs robustas
+- 🌐 Productos web modernos
+- 📱 Apps multiplataforma
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧠 En qué me especializo
 
-### 🖥️ Backend
-Java · Spring Boot · .NET · Node.js · Express
-
-### 🌐 Frontend
-React · Angular · TypeScript · Tailwind · Bootstrap
-
-### 📱 Mobile
-Flutter · React Native · Ionic
-
-### 🗃️ Bases de Datos
-MongoDB · PostgreSQL · MySQL · SQLite
-
-### ⚙️ DevOps & Tools
-Docker · Linux · Git · Firebase · Postman · Figma
+- Desarrollo de **plataformas educativas**
+- Integración de **inteligencia artificial en productos reales**
+- Diseño de **APIs escalables (Java · Spring Boot · Node.js)**
+- Frontend moderno (**React · Angular · TypeScript**)
+- Deploys con **Docker (cloud y self-hosted)**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack
+
+**Backend**  
+Java · Spring Boot · .NET · Node.js · Express  
+
+**Frontend**  
+React · Angular · TypeScript · Tailwind · Bootstrap  
+
+**Mobile**  
+Flutter · React Native · Ionic  
+
+**Bases de datos**  
+MongoDB · PostgreSQL · MySQL · SQLite  
+
+**DevOps & Tools**  
+Docker · Linux · Git · Firebase · Figma · Postman  
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jbraulio85&show_icons=true&theme=radical&hide_border=true" height="160" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Jbraulio85&theme=radical&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jbraulio85&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Jbraulio85&theme=radical&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbraulio85&layout=compact&theme=radical&hide_border=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbraulio85&layout=compact&theme=radical&hide_border=true" width="55%" />
 
 </div>
 
@@ -81,7 +80,7 @@ Docker · Linux · Git · Firebase · Postman · Figma
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jbraulio85&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Jbraulio85&theme=radical&no-frame=true&margin-w=10&row=2&column=4" width="85%" />
 
 </div>
 
@@ -89,16 +88,15 @@ Docker · Linux · Git · Firebase · Postman · Figma
 
 ## 🤝 Colaboración
 
-Estoy abierto a:
-- Proyectos Full Stack
-- EdTech / plataformas educativas
-- Integraciones con IA
-- Ideas interesantes que quieran convertirse en producto
+Me interesa trabajar en:
+- EdTech
+- Productos con IA
+- Proyectos Full Stack con impacto real
 
 ---
 
 <div align="center">
 
-💬 *Siempre abierto a conversar sobre tecnología, educación o nuevas ideas*
+💬 *Siempre abierto a ideas, colaboración y construir cosas interesantes*
 
 </div>
