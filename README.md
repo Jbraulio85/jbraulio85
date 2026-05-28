@@ -93,7 +93,7 @@ Docente en **Fundación Kinal** · Actualmente desarrollando en **[shucode.lat](
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jbraulio85&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Jbraulio85&theme=radical&no-frame=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
